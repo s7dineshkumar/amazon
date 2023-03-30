@@ -1,0 +1,11 @@
+2023-03-30 12:43:17,321: INFO: test_addtocart.py: Search results page title is captured
+2023-03-30 12:57:23,631: DEBUG: test_addtocart.py: Search results page title is captured
+2023-03-30 13:04:47,739: DEBUG: test_addtocart.py: Search results page title is captured
+2023-03-30 13:06:32,760: DEBUG: test_addtocart.py: Search results page title is captured
+2023-03-30 13:08:27,732: DEBUG: test_addtocart.py: cart page title is captured
+2023-03-30 13:14:07,437: INFO: test_addtocart.py: Search results page title is captured
+2023-03-30 13:17:01,552: INFO: test_addtocart.py: Search results page title is captured
+2023-03-30 13:18:15,684: INFO: test_addtocart.py: Search results page title is captured
+2023-03-30 13:26:00,527: INFO: test_addtocart.py: Search results page title is captured
+2023-03-30 13:28:08,557: INFO: test_addtocart.py: Search results page title is captured
+2023-03-30 13:30:57,366: INFO: test_addtocart.py: Search results page title is captured
